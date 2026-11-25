@@ -1,0 +1,9 @@
+class Book:
+    def__init__(self, title, author):
+    pass
+    def borrow(self):
+    pass
+    def return_book(self):
+    pass
+    def__str__(self):
+    pass
